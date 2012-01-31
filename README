@@ -1,0 +1,8 @@
+electric20toTwitter
+------------------
+Contains  scripts used to post electric20 data to Twitter.
+Depends on oauth information in file get_twitter_details.php missing from this public repo.
+Contact me to get this file or on info how to get your own oauth authentication.
+This is meant to run as part of electric20 server, watch out for various dependendies. 
+
+(c) Joel Fischer for the University of Nottingham
